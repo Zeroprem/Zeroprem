@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer <br>🔭 I’m currently working on Full stack Discord clone<br>🌱 I’m currently learning Nextjs<br>https://www.linkedin.com/in/prem2003<br>premchandtarange.sknsits.comp@gmail.com
+Software Developer <br>🔭 I’m currently working on Full stack Discord clone<br>🌱 I’m currently learning Nextjs<br>https://www.linkedin.com/in/prem2003<br>premchandtarange.sknsits.comp@gmail.com <br> https://leetcode.com/u/premtarange00/
 
 
 # 💻 Tech Stack:
